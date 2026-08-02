@@ -1,6 +1,9 @@
 name: Auto-Scrape Shifted Edit Calendar
 
 on:
+  push:
+    branches:
+      - main  # (or master, depending on what your main branch is called)
   schedule:
     # Runs automatically every day at midnight UTC (5:00 PM Arizona Time)
     - cron: '0 0 * * *'

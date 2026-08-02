@@ -115,6 +115,27 @@ std::string calculateEndTime(const std::string& startTime, int durationHours = 2
     return endTime;
 }
 
+// Helper function to decode common HTML entities like &amp;
+std::string decodeHTMLEntities(std::string str) {
+    size_t pos = 0;
+    while ((pos = str.find("&amp;", pos)) != std::string::npos) {
+        str.replace(pos, 5, "&");
+        pos += 1; // Move past the replaced '&'
+    }
+    // You can also add other common ones just in case!
+    pos = 0;
+    while ((pos = str.find("&#039;", pos)) != std::string::npos) {
+        str.replace(pos, 6, "'");
+        pos += 1;
+    }
+    pos = 0;
+    while ((pos = str.find("&quot;", pos)) != std::string::npos) {
+        str.replace(pos, 6, "\"");
+        pos += 1;
+    }
+    return str;
+}
+
 // 5. Parse event cards from HTML
 std::vector<Event> parseEvents(const std::string& html) {
     std::vector<Event> events;
@@ -123,10 +144,11 @@ std::vector<Event> parseEvents(const std::string& html) {
     while ((currentPos = html.find("event-card-mobile", currentPos)) != std::string::npos) {
         Event e;
         
-        e.title    = extractTextForClass(html, "title-calendar", currentPos);
-        e.date_str = extractTextForClass(html, "date-calendar", currentPos);
-        e.time_str = extractTextForClass(html, "time-calendar", currentPos);
-        e.location = extractTextForClass(html, "location-calendar", currentPos);
+        // Extract and immediately decode HTML entities!
+        e.title    = decodeHTMLEntities(extractTextForClass(html, "title-calendar", currentPos));
+        e.date_str = decodeHTMLEntities(extractTextForClass(html, "date-calendar", currentPos));
+        e.time_str = decodeHTMLEntities(extractTextForClass(html, "time-calendar", currentPos));
+        e.location = decodeHTMLEntities(extractTextForClass(html, "location-calendar", currentPos));
 
         e.start_time = formatAppleTimestamp(e.date_str, e.time_str);
         e.end_time   = calculateEndTime(e.start_time, 2);
