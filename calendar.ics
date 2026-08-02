@@ -1,0 +1,765 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//My C++ Scraper//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:event-0@mycustomdomain.com
+DTSTART:20260702T190000
+DTEND:20260702T210000
+SUMMARY:@streetheatsociety ace &amp; whips
+LOCATION:8430 W McDowell Rd, Phoenix, AZ
+DESCRIPTION:Date: Jul 2 | Time: 7:00pm - 10:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-1@mycustomdomain.com
+DTSTART:20260703T180000
+DTEND:20260703T200000
+SUMMARY:cars of prescott meet
+LOCATION:3090 Gateway Blvd, Prescott, az
+DESCRIPTION:Date: Jul 3 | Time: 6:00pm - 9:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-2@mycustomdomain.com
+DTSTART:20260703T190000
+DTEND:20260703T210000
+SUMMARY:@Az_KrucialSociety meet
+LOCATION:1164 w southern ave, mesa, az
+DESCRIPTION:Date: Jul 3 | Time: 7:00pm - 10:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-3@mycustomdomain.com
+DTSTART:20260703T193000
+DTEND:20260703T213000
+SUMMARY:@_streetsyndicates_ meet &amp; bbq
+LOCATION:3700 S Mission Rd Tucson, AZ
+DESCRIPTION:Date: Jul 3 | Time: 7:30pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-4@mycustomdomain.com
+DTSTART:20260703T200000
+DTEND:20260703T220000
+SUMMARY:boosted fridays pt. 4 @az.drivn
+LOCATION:21195 West Roosevelt St, Buckeye, AZ
+DESCRIPTION:Date: Jul 3 | Time: 8:00pm - 11:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-5@mycustomdomain.com
+DTSTART:20260703T213000
+DTEND:20260703T233000
+SUMMARY:@midnightsociety.az stars &amp; cars
+LOCATION:5960 W Buckeye Rd, Phoenix, AZ
+DESCRIPTION:Date: Jul 3 | Time: 9:30pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-6@mycustomdomain.com
+DTSTART:20260704T070000
+DTEND:20260704T090000
+SUMMARY:Porsches in scottsdale
+LOCATION:fourtillfour scottsdale
+DESCRIPTION:Date: Jul 4 | Time: 7:00am - 10:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-7@mycustomdomain.com
+DTSTART:20260704T070000
+DTEND:20260704T090000
+SUMMARY:Scuderia Southwest Cars &amp; Coffee
+LOCATION:Market Street DC Ranch
+DESCRIPTION:Date: Jul 4 | Time: 7:00am - 10:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-8@mycustomdomain.com
+DTSTART:20260704T070000
+DTEND:20260704T090000
+SUMMARY:xlr8 east tucson cars &amp; coffee
+LOCATION:Musselman Honda Circuit, tucson, az
+DESCRIPTION:Date: Jul 4 | Time: 7:00am - 10:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-9@mycustomdomain.com
+DTSTART:20260704T070000
+DTEND:20260704T090000
+SUMMARY:tucson cars &amp; coffee
+LOCATION:1090 W Irvington Rd, Tucson, AZ
+DESCRIPTION:Date: Jul 4 | Time: 7:00am - 9:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-10@mycustomdomain.com
+DTSTART:20260704T073000
+DTEND:20260704T093000
+SUMMARY:Highline Autos
+LOCATION:5415 E High St, Phoenix, AZ
+DESCRIPTION:Date: Jul 4 | Time: 7:30am - 10:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-11@mycustomdomain.com
+DTSTART:20260704T230000
+DTEND:20260704T010000
+SUMMARY:texas torque
+LOCATION:8510 s emerald rd, tempe, az
+DESCRIPTION:Date: Jul 4 | Time: 11:00am - 3:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-12@mycustomdomain.com
+DTSTART:20260704T160000
+DTEND:20260704T180000
+SUMMARY:Saturday Night Shine
+LOCATION:Adam&#x27;s Polishes Scottsdale
+DESCRIPTION:Date: Jul 4 | Time: 4:00pm - 8:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-13@mycustomdomain.com
+DTSTART:20260704T170000
+DTEND:20260704T190000
+SUMMARY:mixteca cruise in
+LOCATION:6731 W Bell Rd, Glendale, AZ
+DESCRIPTION:Date: Jul 4 | Time: 5:00pm - 8:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-14@mycustomdomain.com
+DTSTART:20260704T170000
+DTEND:20260704T190000
+SUMMARY:@azmidnightcruises 4th of july meet
+LOCATION:9380 W Glendale Ave, Glendale, AZ
+DESCRIPTION:Date: Jul 4 | Time: 5:00pm - 8:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-15@mycustomdomain.com
+DTSTART:20260705T070000
+DTEND:20260705T090000
+SUMMARY:Motorcycles &amp; Coffee
+LOCATION:fourtillfour scottsdale
+DESCRIPTION:Date: Jul 5 | Time: 7:00am - 10:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-16@mycustomdomain.com
+DTSTART:20260705T070000
+DTEND:20260705T090000
+SUMMARY:White Tank Customs &amp; Classics
+LOCATION:1775 N Verrado Way #107, Buckeye, AZ 85396
+DESCRIPTION:Date: Jul 5 | Time: 7:00am - 9:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-17@mycustomdomain.com
+DTSTART:20260705T090000
+DTEND:20260705T110000
+SUMMARY:Solo Moto Co. car meet
+LOCATION:100 S Avenida del Convento, Tucson, AZ
+DESCRIPTION:Date: Jul 5 | Time: 9:00am - 11:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-18@mycustomdomain.com
+DTSTART:20260708T200000
+DTEND:20260708T220000
+SUMMARY:@azthrottleculture wing wednesday
+LOCATION:1930 W Thunderbird Rd, Phoenix, AZ
+DESCRIPTION:Date: Jul 8 | Time: 8:00pm - 11:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-19@mycustomdomain.com
+DTSTART:20260709T190000
+DTEND:20260709T210000
+SUMMARY:aces &amp; whips @streetheatsociety
+LOCATION:8430 W McDowell Rd, Phoenix, AZ
+DESCRIPTION:Date: Jul 9 | Time: 7:00pm - 10:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-20@mycustomdomain.com
+DTSTART:20260710T180000
+DTEND:20260710T200000
+SUMMARY:park &amp; chill @gioo40_
+LOCATION:1190 S Lakeshore Ln, Tucson, AZ
+DESCRIPTION:Date: Jul 10 | Time: 6:00pm - 9:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-21@mycustomdomain.com
+DTSTART:20260710T200000
+DTEND:20260710T220000
+SUMMARY:boosted fridays @az.drivn
+LOCATION:21195 West Roosevelt St, Buckeye, AZ
+DESCRIPTION:Date: Jul 10 | Time: 8:00pm - 11:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-22@mycustomdomain.com
+DTSTART:20260711T063000
+DTEND:20260711T083000
+SUMMARY:@boso_society sedona cruise
+LOCATION:2050 E Rio Salado Pkwy, Tempe, AZ
+DESCRIPTION:Date: Jul 11 | Time: 6:30am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-23@mycustomdomain.com
+DTSTART:20260711T070000
+DTEND:20260711T090000
+SUMMARY:Fast Cars in Scottsdale
+LOCATION:fourtillfour scottsdale
+DESCRIPTION:Date: Jul 11 | Time: 7:00am - 10:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-24@mycustomdomain.com
+DTSTART:20260711T070000
+DTEND:20260711T090000
+SUMMARY:Cars &amp; Coffee at La Encantada
+LOCATION:2905 E Skyline Dr, Tucson, AZ
+DESCRIPTION:Date: Jul 11 | Time: 7:00am - 11:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-25@mycustomdomain.com
+DTSTART:20260711T070000
+DTEND:20260711T090000
+SUMMARY:obsession car club tucson cars &amp; coffee
+LOCATION:4075 W Ina Rd, Tucson, AZ
+DESCRIPTION:Date: Jul 11 | Time: 7:00am – 10:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-26@mycustomdomain.com
+DTSTART:20260711T070000
+DTEND:20260711T090000
+SUMMARY:collector car appreciation day &amp; fundraiser
+LOCATION:martin auto museum, glendale, az
+DESCRIPTION:Date: Jul 11 | Time: 7:00am - 11:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-27@mycustomdomain.com
+DTSTART:20260711T090000
+DTEND:20260711T110000
+SUMMARY:@avantsofficial heatwave
+LOCATION:stratton motor club, tempe, az
+DESCRIPTION:Date: Jul 11 | Time: 9:00am - 11:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-28@mycustomdomain.com
+DTSTART:20260711T170000
+DTEND:20260711T190000
+SUMMARY:mixteca cruise in
+LOCATION:6731 W Bell Rd, Glendale, AZ
+DESCRIPTION:Date: Jul 11 | Time: 5:00pm - 8:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-29@mycustomdomain.com
+DTSTART:20260711T170000
+DTEND:20260711T190000
+SUMMARY:Cold Beer &amp; Cheeseburgers
+LOCATION:8624 E Shea Blvd, Scottsdale, AZ
+DESCRIPTION:Date: Jul 11 | Time: 5:00pm - 8:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-30@mycustomdomain.com
+DTSTART:20260711T180000
+DTEND:20260711T200000
+SUMMARY:back to school donation meet @prettywheelz_az
+LOCATION:400 S Sarnoff Dr, Tucson, AZ
+DESCRIPTION:Date: Jul 11 | Time: 6:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-31@mycustomdomain.com
+DTSTART:20260711T180000
+DTEND:20260711T200000
+SUMMARY:The 4th Of July Post Boom @phxsoulaz
+LOCATION:2030 E Southern Ave, Phoenix, AZ
+DESCRIPTION:Date: Jul 11 | Time: 6:00pm - 11:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-32@mycustomdomain.com
+DTSTART:20260711T190000
+DTEND:20260711T210000
+SUMMARY:launch event @gapitgarage
+LOCATION:2961 W Fairmount Ave, Phoenix, AZ
+DESCRIPTION:Date: Jul 11 | Time: 7:00pm - 10:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-33@mycustomdomain.com
+DTSTART:20260711T190000
+DTEND:20260711T210000
+SUMMARY:7-eleven bike night
+LOCATION:5303 w bell rd, glendale, az
+DESCRIPTION:Date: Jul 11 | Time: 7:00pm - 11:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-34@mycustomdomain.com
+DTSTART:20260711T190000
+DTEND:20260711T210000
+SUMMARY:@midnightdragons__ night meet
+LOCATION:1733 E McKellips Rd, Tempe, AZ
+DESCRIPTION:Date: Jul 11 | Time: 7:00pm - 10:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-35@mycustomdomain.com
+DTSTART:20260711T200000
+DTEND:20260711T220000
+SUMMARY:tucson 7-eleven mega meet
+LOCATION:check day of @midnight.carculture
+DESCRIPTION:Date: Jul 11 | Time: 8:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-36@mycustomdomain.com
+DTSTART:20260712T070000
+DTEND:20260712T090000
+SUMMARY:Aircooled Volkswagens
+LOCATION:fourtillfour scottsdale
+DESCRIPTION:Date: Jul 12 | Time: 7:00am - 10:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-37@mycustomdomain.com
+DTSTART:20260712T070000
+DTEND:20260712T090000
+SUMMARY:alpio&#x27;s at troon cars &amp; coffee
+LOCATION:10452 E Jomax Rd, Scottsdale, AZ
+DESCRIPTION:Date: Jul 12 | Time: 7:00am - 10:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-38@mycustomdomain.com
+DTSTART:20260712T070000
+DTEND:20260712T090000
+SUMMARY:White Tank Customs &amp; Classics
+LOCATION:1775 N Verrado Way #107, Buckeye, AZ
+DESCRIPTION:Date: Jul 12 | Time: 7:00am - 9:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-39@mycustomdomain.com
+DTSTART:20260712T080000
+DTEND:20260712T100000
+SUMMARY:cars &amp; coffee by city of chandler
+LOCATION:Crowne Plaza Resort, Chandler, az
+DESCRIPTION:Date: Jul 12 | Time: 8:00am - 11:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-40@mycustomdomain.com
+DTSTART:20260712T170000
+DTEND:20260712T190000
+SUMMARY:sunset meet @streetshotsby_alee
+LOCATION:910 W Irvington Rd, Tucson, AZ
+DESCRIPTION:Date: Jul 12 | Time: 5:00pm - 7:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-41@mycustomdomain.com
+DTSTART:20260713T190000
+DTEND:20260713T210000
+SUMMARY:monday meet @az.street.mob
+LOCATION:5912 W Bell Rd, Glendale, AZ
+DESCRIPTION:Date: Jul 13 | Time: 7:00pm - 10:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-42@mycustomdomain.com
+DTSTART:20260714T200000
+DTEND:20260714T220000
+SUMMARY:bike popup meet @validgang.tm
+LOCATION:Buc-ee&#x27;s, goodyear, az
+DESCRIPTION:Date: Jul 14 | Time: 8:00pm - 10:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-43@mycustomdomain.com
+DTSTART:20260717T190000
+DTEND:20260717T210000
+SUMMARY:@Az_KrucialSociety meet
+LOCATION:1164 w southern ave, mesa, az
+DESCRIPTION:Date: Jul 17 | Time: 7:00pm - 10:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-44@mycustomdomain.com
+DTSTART:20260717T190000
+DTEND:20260717T210000
+SUMMARY:moddedkulture park &amp; chill
+LOCATION:10695 W Pierce St, Avondale, AZ
+DESCRIPTION:Date: Jul 17 | Time: 7:00pm - 10:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-45@mycustomdomain.com
+DTSTART:20260717T193000
+DTEND:20260717T213000
+SUMMARY:Midnight Lights meet &amp; cruise
+LOCATION:15475 N Northsight Blvd, Scottsdale, AZ
+DESCRIPTION:Date: Jul 17 | Time: 7:30PM - 9:00PM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-46@mycustomdomain.com
+DTSTART:20260718T063000
+DTEND:20260718T083000
+SUMMARY:strictly air-cooled lap 20
+LOCATION:street brew coffee, scottsdale, az
+DESCRIPTION:Date: Jul 18 | Time: 6:30am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-47@mycustomdomain.com
+DTSTART:20260718T070000
+DTEND:20260718T090000
+SUMMARY:shakedown Vintage European &amp; JDM
+LOCATION:fourtillfour scottsdale
+DESCRIPTION:Date: Jul 18 | Time: 7:00am - 10:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-48@mycustomdomain.com
+DTSTART:20260718T070000
+DTEND:20260718T090000
+SUMMARY:Penske Cars &amp; Coffee
+LOCATION:penske Racing Museum
+DESCRIPTION:Date: Jul 18 | Time: 7:00am - 9:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-49@mycustomdomain.com
+DTSTART:20260718T070000
+DTEND:20260718T090000
+SUMMARY:porsche scottsdale cars &amp; coffee
+LOCATION:7077 E Princess Dr, Phoenix, AZ
+DESCRIPTION:Date: Jul 18 | Time: 7:00am - 9:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-50@mycustomdomain.com
+DTSTART:20260718T090000
+DTEND:20260718T110000
+SUMMARY:Avants: SIMS &amp; Coffee*
+LOCATION:World of Racing Phoenix
+DESCRIPTION:Date: Jul 18 | Time: 9:00am - 11:30am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-51@mycustomdomain.com
+DTSTART:20260718T160000
+DTEND:20260718T180000
+SUMMARY:Saturday Night Shine
+LOCATION:Adam&#x27;s Polishes Scottsdale
+DESCRIPTION:Date: Jul 18 | Time: 4:00pm - 8:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-52@mycustomdomain.com
+DTSTART:20260718T170000
+DTEND:20260718T190000
+SUMMARY:mixteca cruise in
+LOCATION:6731 W Bell Rd, Glendale, AZ
+DESCRIPTION:Date: Jul 18 | Time: 5:00pm - 8:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-53@mycustomdomain.com
+DTSTART:20260718T170000
+DTEND:20260718T190000
+SUMMARY:Cold Beer &amp; Cheeseburgers
+LOCATION:8624 E Shea Blvd, Scottsdale, AZ
+DESCRIPTION:Date: Jul 18 | Time: 5:00pm - 8:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-54@mycustomdomain.com
+DTSTART:20260718T180000
+DTEND:20260718T200000
+SUMMARY:arizona bike night @cleannuff
+LOCATION:8926 E Elliot Rd, Mesa, AZ
+DESCRIPTION:Date: Jul 18 | Time: 6:00pm - 9:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-55@mycustomdomain.com
+DTSTART:20260718T180000
+DTEND:20260718T200000
+SUMMARY:mansion meet
+LOCATION:DM @mopar.mob.az for more
+DESCRIPTION:Date: Jul 18 | Time: 6:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-56@mycustomdomain.com
+DTSTART:20260718T190000
+DTEND:20260718T210000
+SUMMARY:7-eleven bike night
+LOCATION:5303 w bell rd, glendale, az
+DESCRIPTION:Date: Jul 18 | Time: 7:00pm - 11:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-57@mycustomdomain.com
+DTSTART:20260719T070000
+DTEND:20260719T090000
+SUMMARY:White Tank Customs &amp; Classics
+LOCATION:1775 N Verrado Way #107, Buckeye, AZ
+DESCRIPTION:Date: Jul 19 | Time: 7:00am - 9:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-58@mycustomdomain.com
+DTSTART:20260719T080000
+DTEND:20260719T100000
+SUMMARY:@streetheatsociety cars &amp; coffee
+LOCATION:1495 N Dysart Rd, Avondale, AZ
+DESCRIPTION:Date: Jul 19 | Time: 8:00am - 10:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-59@mycustomdomain.com
+DTSTART:20260719T210000
+DTEND:20260719T230000
+SUMMARY:Do It For Tucson’s 3rd Annual Back to School Drive
+LOCATION:910 W Irvington Rd, Tucson, Az
+DESCRIPTION:Date: Jul 19 | Time: 9:00am - 12:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-60@mycustomdomain.com
+DTSTART:20260719T190000
+DTEND:20260719T210000
+SUMMARY:Brokenskulls X HeatConnect Car Bike Meet
+LOCATION:53 N Val Vista Dr, Gilbert, AZ
+DESCRIPTION:Date: Jul 19 | Time: 7:00PM To 10:00PM
+END:VEVENT
+BEGIN:VEVENT
+UID:event-61@mycustomdomain.com
+DTSTART:20260719T190000
+DTEND:20260719T210000
+SUMMARY:isaac&#x27;s celebration of life
+LOCATION:53 N Val Vista Dr, Gilbert, AZ
+DESCRIPTION:Date: Jul 19 | Time: 7:00pm - 9:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-62@mycustomdomain.com
+DTSTART:20260720T190000
+DTEND:20260720T210000
+SUMMARY:monday meet @az.street.mob
+LOCATION:5912 W Bell Rd, Glendale, AZ
+DESCRIPTION:Date: Jul 20 | Time: 7:00pm - 10:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-63@mycustomdomain.com
+DTSTART:20260724T180000
+DTEND:20260724T200000
+SUMMARY:friday night drags*
+LOCATION:tucson dragway
+DESCRIPTION:Date: Jul 24 | Time: 6:00pm - 11:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-64@mycustomdomain.com
+DTSTART:20260724T183000
+DTEND:20260724T203000
+SUMMARY:CGSS The Shitbox Cruise &amp; Meet
+LOCATION:721 E Florence Blvd, Casa Grande, AZ
+DESCRIPTION:Date: Jul 24 | Time: 6:30pm - 9:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-65@mycustomdomain.com
+DTSTART:20260724T193000
+DTEND:20260724T213000
+SUMMARY:@hellsent.club friday meet
+LOCATION:1830 s country club dr, mesa, az
+DESCRIPTION:Date: Jul 24 | Time: 7:30pm - 10:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-66@mycustomdomain.com
+DTSTART:20260725T060000
+DTEND:20260725T080000
+SUMMARY:East Valley Dream Machines Cars &amp; Coffee
+LOCATION:730 W Guadalupe Rd, Gilbert, AZ
+DESCRIPTION:Date: Jul 25 | Time: 6:00am – 9:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-67@mycustomdomain.com
+DTSTART:20260725T070000
+DTEND:20260725T090000
+SUMMARY:vintage offroad
+LOCATION:fourtillfour scottsdale
+DESCRIPTION:Date: Jul 25 | Time: 7:00am - 10:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-68@mycustomdomain.com
+DTSTART:20260725T070000
+DTEND:20260725T090000
+SUMMARY:anthem cars &amp; coffee
+LOCATION:outlets north phoenix
+DESCRIPTION:Date: Jul 25 | Time: 7:00am - 10:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-69@mycustomdomain.com
+DTSTART:20260725T073000
+DTEND:20260725T093000
+SUMMARY:Caffeine &amp; camshafts
+LOCATION:19641 N Scottsdale Rd, Scottsdale, AZ
+DESCRIPTION:Date: Jul 25 | Time: 7:30am - 10:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-70@mycustomdomain.com
+DTSTART:20260725T080000
+DTEND:20260725T100000
+SUMMARY:Prescott Cars &amp; Coffee
+LOCATION:3200 Gateway Blvd, Prescott, AZ
+DESCRIPTION:Date: Jul 25 | Time: 8:00am – 10:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-71@mycustomdomain.com
+DTSTART:20260725T090000
+DTEND:20260725T110000
+SUMMARY:supercar saturday
+LOCATION:mclaren north scottsdale
+DESCRIPTION:Date: Jul 25 | Time: 9:00am - 11:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-72@mycustomdomain.com
+DTSTART:20260725T210000
+DTEND:20260725T230000
+SUMMARY:car wash fundraiser @mopar_mob_az
+LOCATION:2804 N 35th Ave, Phoenix, AZ
+DESCRIPTION:Date: Jul 25 | Time: 9:00am - 4:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-73@mycustomdomain.com
+DTSTART:20260725T210000
+DTEND:20260725T230000
+SUMMARY:7-eleven bike night ride out
+LOCATION:5303 w bell rd, glendale, az
+DESCRIPTION:Date: Jul 25 | Time: 9:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-74@mycustomdomain.com
+DTSTART:20260725T120000
+DTEND:20260725T140000
+SUMMARY:harley vs indian bike showdown @southwest_clubstyle
+LOCATION:6900 E Cave Creek Rd, Cave Creek, AZ
+DESCRIPTION:Date: Jul 25 | Time: 12:00pm - 6:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-75@mycustomdomain.com
+DTSTART:20260725T170000
+DTEND:20260725T190000
+SUMMARY:mixteca cruise in
+LOCATION:6731 W Bell Rd, Glendale, AZ
+DESCRIPTION:Date: Jul 25 | Time: 5:00pm - 8:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-76@mycustomdomain.com
+DTSTART:20260725T170000
+DTEND:20260725T190000
+SUMMARY:Cold Beer &amp; Cheeseburgers
+LOCATION:8624 E Shea Blvd, Scottsdale, AZ
+DESCRIPTION:Date: Jul 25 | Time: 5:00pm - 8:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-77@mycustomdomain.com
+DTSTART:20260725T190000
+DTEND:20260725T210000
+SUMMARY:turbos &amp; tacos @az.drivn
+LOCATION:4035 S Arizona Ave, Chandler, AZ
+DESCRIPTION:Date: Jul 25 | Time: 7:00pm - 11:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-78@mycustomdomain.com
+DTSTART:20260725T190000
+DTEND:20260725T210000
+SUMMARY:Cannonball Run Crew Car Club meet up*
+LOCATION:RSVP @cannonballruncrewcarclub
+DESCRIPTION:Date: Jul 25 | Time: 7:00pm - 9:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-79@mycustomdomain.com
+DTSTART:20260725T190000
+DTEND:20260725T210000
+SUMMARY:back to school car meet @the_team_renegade
+LOCATION:2340 W Bell Rd, Phoenix, AZ
+DESCRIPTION:Date: Jul 25 | Time: 7:00pm - 10:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-80@mycustomdomain.com
+DTSTART:20260725T193000
+DTEND:20260725T213000
+SUMMARY:hot summer nights @c10clubarizona
+LOCATION:748 E McDowell Rd, Phoenix, AZ
+DESCRIPTION:Date: Jul 25 | Time: 7:30pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-81@mycustomdomain.com
+DTSTART:20260725T200000
+DTEND:20260725T220000
+SUMMARY:sunset vibes @teambulletaz
+LOCATION:13130 W Bell Rd, Surprise, AZ
+DESCRIPTION:Date: Jul 25 | Time: 8:00pm - 11:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-82@mycustomdomain.com
+DTSTART:20260725T213000
+DTEND:20260725T233000
+SUMMARY:buc-ee&#x27;s cruise @streetheatsociety
+LOCATION:8430 W McDowell Rd, Phoenix, AZ
+DESCRIPTION:Date: Jul 25 | Time: 9:30pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-83@mycustomdomain.com
+DTSTART:20260726T120000
+DTEND:20260726T140000
+SUMMARY:horizon rally group mt. lemmon rally
+LOCATION:DM @horizonrallygroup for more
+DESCRIPTION:Date: Jul 26 | Time: 
+END:VEVENT
+BEGIN:VEVENT
+UID:event-84@mycustomdomain.com
+DTSTART:20260726T070000
+DTEND:20260726T090000
+SUMMARY:White Tank Customs &amp; Classics
+LOCATION:1775 N Verrado Way #107, Buckeye, AZ
+DESCRIPTION:Date: Jul 26 | Time: 7:00am - 9:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-85@mycustomdomain.com
+DTSTART:20260726T090000
+DTEND:20260726T110000
+SUMMARY:Cars &amp; Caffeine &amp; LEGOs
+LOCATION:1730 W Happy Valley Rd, Unit 106, Phoenix, AZ
+DESCRIPTION:Date: Jul 26 | Time: 9:00am - 11:30am
+END:VEVENT
+BEGIN:VEVENT
+UID:event-86@mycustomdomain.com
+DTSTART:20260726T210000
+DTEND:20260726T230000
+SUMMARY:blood drive &amp; car meet
+LOCATION:gainey ranch golf club
+DESCRIPTION:Date: Jul 26 | Time: 9:00am - 2:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-87@mycustomdomain.com
+DTSTART:20260726T173000
+DTEND:20260726T193000
+SUMMARY:dunkin&#x27; donuts meet @rougesociety.az
+LOCATION:6028 Hunt Hwy, Queen Creek, AZ
+DESCRIPTION:Date: Jul 26 | Time: 5:30pm - 8:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-88@mycustomdomain.com
+DTSTART:20260727T190000
+DTEND:20260727T210000
+SUMMARY:monday meet @az.street.mob
+LOCATION:5912 W Bell Rd, Glendale, AZ
+DESCRIPTION:Date: Jul 27 | Time: 7:00pm - 10:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-89@mycustomdomain.com
+DTSTART:20260729T190000
+DTEND:20260729T210000
+SUMMARY:@flipside_az park &amp; chill
+LOCATION:1010 W Chandler Heights Rd, Chandler, AZ
+DESCRIPTION:Date: Jul 29 | Time: 7:00pm - 10:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-90@mycustomdomain.com
+DTSTART:20260731T180000
+DTEND:20260731T200000
+SUMMARY:cars of prescott meet
+LOCATION:3090 Gateway Blvd, Prescott, az
+DESCRIPTION:Date: Jul 31 | Time: 6:00pm - 9:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-91@mycustomdomain.com
+DTSTART:20260731T180000
+DTEND:20260731T200000
+SUMMARY:friday night drags*
+LOCATION:tucson dragway
+DESCRIPTION:Date: Jul 31 | Time: 6:00pm - 11:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-92@mycustomdomain.com
+DTSTART:20260731T190000
+DTEND:20260731T210000
+SUMMARY:mercedes benz of az benz night
+LOCATION:2450 W Broadway Rd, Mesa, AZ
+DESCRIPTION:Date: Jul 31 | Time: 7:00pm - 9:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-93@mycustomdomain.com
+DTSTART:20260731T190000
+DTEND:20260731T210000
+SUMMARY:streetside classics @midnightsociety.az
+LOCATION:614 e auto center dr, unit 101, mesa, az
+DESCRIPTION:Date: Jul 31 | Time: 7:00pm - 10:00pm
+END:VEVENT
+BEGIN:VEVENT
+UID:event-94@mycustomdomain.com
+DTSTART:20260731T190000
+DTEND:20260731T210000
+SUMMARY:AZ Kruicial Society Meet
+LOCATION:1164 W Southern Ave, Mesa, AZ
+DESCRIPTION:Date: Jul 31 | Time: 7:00pm - 10:00pm
+END:VEVENT
+END:VCALENDAR
