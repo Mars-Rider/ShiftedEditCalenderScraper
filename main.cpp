@@ -9,8 +9,8 @@
 struct Event {
     std::string title;
     std::string date_str;     // e.g., "Jul 3"
-    std::string time_str;     // e.g., "7:00 PM"
-    std::string location;     // e.g., "Main Stage"
+    std::string time_str;     // e.g., "7:00pm - 10:00pm"
+    std::string location;     // e.g., "8430 W McDowell Rd, Phoenix, AZ"
     std::string start_time;   // Formatted as YYYYMMDDTHHMMSS
     std::string end_time;     // Formatted as YYYYMMDDTHHMMSS
 };
@@ -48,7 +48,7 @@ std::string extractTextForClass(const std::string& html, const std::string& clas
     return result.substr(first, (last - first + 1));
 }
 
-// 3. Convert "Jul 3" + "7:00 PM" -> "20260703T190000"
+// 3. Convert "Jul 3" + "7:00pm - 10:00pm" -> "20260703T190000"
 std::string formatAppleTimestamp(const std::string& dateStr, const std::string& timeStr) {
     const std::string months[] = {"Jan", "Feb", "Mar", "Apr", "May", "Jun", 
                                   "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"};
@@ -84,6 +84,7 @@ std::string formatAppleTimestamp(const std::string& dateStr, const std::string& 
             minutes = std::atoi(timeStr.substr(colonPos + 1).c_str());
         }
 
+        // Handle Shifted Edit's lower-case "pm" and "am"
         bool isPM = (timeStr.find("PM") != std::string::npos || timeStr.find("pm") != std::string::npos);
         bool isAM = (timeStr.find("AM") != std::string::npos || timeStr.find("am") != std::string::npos);
 
@@ -99,13 +100,12 @@ std::string formatAppleTimestamp(const std::string& dateStr, const std::string& 
     return "2026" + monthNum + dayNum + "T" + timeFormatted.str();
 }
 
-// 4. NEW: Add 2 hours to start_time to make a realistic end_time
+// 4. Calculate End Time (Adds 2 hours by default)
 std::string calculateEndTime(const std::string& startTime, int durationHours = 2) {
-    if (startTime.length() < 15) return startTime; // Fallback if format is wrong
+    if (startTime.length() < 15) return startTime;
 
-    // Extract hour from "YYYYMMDDTHHMMSS" (characters at index 9 and 10)
     int hour = std::atoi(startTime.substr(9, 2).c_str());
-    hour = (hour + durationHours) % 24; // Keep it within 0-23 hours
+    hour = (hour + durationHours) % 24;
 
     std::stringstream newHour;
     newHour << std::setw(2) << std::setfill('0') << hour;
@@ -115,7 +115,7 @@ std::string calculateEndTime(const std::string& startTime, int durationHours = 2
     return endTime;
 }
 
-// 5. Parse your specific event cards from the HTML
+// 5. Parse event cards from HTML
 std::vector<Event> parseEvents(const std::string& html) {
     std::vector<Event> events;
     size_t currentPos = 0;
@@ -128,9 +128,8 @@ std::vector<Event> parseEvents(const std::string& html) {
         e.time_str = extractTextForClass(html, "time-calendar", currentPos);
         e.location = extractTextForClass(html, "location-calendar", currentPos);
 
-        // Calculate both START and END time!
         e.start_time = formatAppleTimestamp(e.date_str, e.time_str);
-        e.end_time   = calculateEndTime(e.start_time, 2); // Defaults to a 2-hour event
+        e.end_time   = calculateEndTime(e.start_time, 2);
 
         if (!e.title.empty()) {
             events.push_back(e);
@@ -148,14 +147,13 @@ void generateICS(const std::vector<Event>& events, const std::string& filename) 
     
     icsFile << "BEGIN:VCALENDAR\r\n";
     icsFile << "VERSION:2.0\r\n";
-    icsFile << "PRODID:-//My C++ Scraper//EN\r\n";
+    icsFile << "PRODID:-//Shifted Edit C++ Scraper//EN\r\n";
     icsFile << "CALSCALE:GREGORIAN\r\n";
 
     for (size_t i = 0; i < events.size(); ++i) {
         icsFile << "BEGIN:VEVENT\r\n";
-        icsFile << "UID:event-" << i << "@mycustomdomain.com\r\n";
+        icsFile << "UID:shifted-edit-event-" << i << "@mycustomdomain.com\r\n";
         
-        // Includes both START and END times now!
         icsFile << "DTSTART:" << events[i].start_time << "\r\n";
         icsFile << "DTEND:" << events[i].end_time << "\r\n";
         
@@ -172,22 +170,31 @@ void generateICS(const std::vector<Event>& events, const std::string& filename) 
 }
 
 int main() {
-    // Replace with your target website URL
-    std::string targetURL = "https://www.shiftededit.com/events/july";
-    
-    std::cout << "Downloading HTML..." << std::endl;
-    std::string html = fetchHTML(targetURL);
-    
-    std::cout << "Parsing events..." << std::endl;
-    std::vector<Event> events = parseEvents(html);
-    
-    std::cout << "Found " << events.size() << " events!" << std::endl;
-    for (const auto& e : events) {
-        std::cout << " - " << e.title << " | Start: [" << e.start_time 
-                  << "] -> End: [" << e.end_time << "]" << std::endl;
-    }
+    // List of every month's URL path on shiftededit.com
+    std::vector<std::string> months = {
+        "january", "february", "march", "april", "may", "june",
+        "july", "august", "september", "october", "november", "december"
+    };
 
-    generateICS(events, "calendar.ics");
-    std::cout << "Successfully generated calendar.ics!" << std::endl;
+    std::vector<Event> allEvents;
+
+    // Loop through all 12 months!
+    for (const auto& month : months) {
+        std::string targetURL = "https://www.shiftededit.com/events/" + month;
+        std::cout << "Scraping " << month << " (" << targetURL << ")..." << std::endl;
+        
+        std::string html = fetchHTML(targetURL);
+        std::vector<Event> monthEvents = parseEvents(html);
+        
+        std::cout << " -> Found " << monthEvents.size() << " events in " << month << "." << std::endl;
+        
+        // Add this month's events into our master year list
+        allEvents.insert(allEvents.end(), monthEvents.begin(), monthEvents.end());
+    }
+    
+    std::cout << "\nTotal events found across all months: " << allEvents.size() << std::endl;
+
+    generateICS(allEvents, "calendar.ics");
+    std::cout << "Successfully saved all events to calendar.ics!" << std::endl;
     return 0;
 }
