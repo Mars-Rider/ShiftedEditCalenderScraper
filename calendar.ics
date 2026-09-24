@@ -2428,14 +2428,6 @@ DESCRIPTION:Date: Jul 31 | Time: 7:00pm - 10:00pm
 END:VEVENT
 BEGIN:VEVENT
 UID:shifted-edit-event-303@mycustomdomain.com
-DTSTART:20260921T200000
-DTEND:20260921T220000
-SUMMARY:ZCCA International Z Car Convention
-LOCATION:860 N Riverview Mesa, AZ
-DESCRIPTION:Date: Sep 21 | Time: 8:00am - 10:30pm
-END:VEVENT
-BEGIN:VEVENT
-UID:shifted-edit-event-304@mycustomdomain.com
 DTSTART:20260924T200000
 DTEND:20260924T220000
 SUMMARY:5th annual glowmeet @40rollracingteam
@@ -2443,7 +2435,7 @@ LOCATION:harmon auto glass
 DESCRIPTION:Date: Sep 24 | Time: 8:00pm - 10:30pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-305@mycustomdomain.com
+UID:shifted-edit-event-304@mycustomdomain.com
 DTSTART:20260925T180000
 DTEND:20260925T200000
 SUMMARY:bike night @goazmotorcycles
@@ -2451,7 +2443,7 @@ LOCATION:15500 Hayden Rd, Scottsdale, AZ
 DESCRIPTION:Date: Sep 25 | Time: 6:00pm - 8:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-306@mycustomdomain.com
+UID:shifted-edit-event-305@mycustomdomain.com
 DTSTART:20260925T183000
 DTEND:20260925T203000
 SUMMARY:friday night drags* @gofastent
@@ -2459,7 +2451,7 @@ LOCATION:firebird motorsports park
 DESCRIPTION:Date: Sep 25 | Time: 6:30pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-307@mycustomdomain.com
+UID:shifted-edit-event-306@mycustomdomain.com
 DTSTART:20260925T190000
 DTEND:20260925T210000
 SUMMARY:@az_krucialsociety car meet
@@ -2467,7 +2459,7 @@ LOCATION:1164 W Southern Ave, Mesa, AZ
 DESCRIPTION:Date: Sep 25 | Time: 7:00pm - 10:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-308@mycustomdomain.com
+UID:shifted-edit-event-307@mycustomdomain.com
 DTSTART:20260925T193000
 DTEND:20260925T213000
 SUMMARY:phoenix pop up meet @az.street.cars
@@ -2475,7 +2467,7 @@ LOCATION:1509 N 79th Ave, Phoenix, AZ
 DESCRIPTION:Date: Sep 25 | Time: 7:30pm - 10:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-309@mycustomdomain.com
+UID:shifted-edit-event-308@mycustomdomain.com
 DTSTART:20260925T193000
 DTEND:20260925T213000
 SUMMARY:park & chill @adrenalinealliance_az
@@ -2483,7 +2475,7 @@ LOCATION:6602 W Encanto Blvd, Phoenix, Az
 DESCRIPTION:Date: Sep 25 | Time: 7:30pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-310@mycustomdomain.com
+UID:shifted-edit-event-309@mycustomdomain.com
 DTSTART:20260926T063000
 DTEND:20260926T083000
 SUMMARY:car, bikes, & coffee @brokenskulls2026
@@ -2491,7 +2483,7 @@ LOCATION:switch brews coffee house, queen creek, az
 DESCRIPTION:Date: Sep 26 | Time: 6:30am - 9:30am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-311@mycustomdomain.com
+UID:shifted-edit-event-310@mycustomdomain.com
 DTSTART:20260926T070000
 DTEND:20260926T090000
 SUMMARY:vintage offroad
@@ -2499,7 +2491,7 @@ LOCATION:fourtillfour scottsdale
 DESCRIPTION:Date: Sep 26 | Time: 7:00am - 10:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-312@mycustomdomain.com
+UID:shifted-edit-event-311@mycustomdomain.com
 DTSTART:20260926T070000
 DTEND:20260926T090000
 SUMMARY:luxe cars & coffee
@@ -2507,7 +2499,7 @@ LOCATION:10625 n tatum blvd, phoenix, az
 DESCRIPTION:Date: Sep 26 | Time: 7:00am - 9:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-313@mycustomdomain.com
+UID:shifted-edit-event-312@mycustomdomain.com
 DTSTART:20260926T070000
 DTEND:20260926T090000
 SUMMARY:Top Fuel Espresso cars & coffee
@@ -2515,7 +2507,7 @@ LOCATION:740 W Guadalupe Rd, Gilbert, AZ
 DESCRIPTION:Date: Sep 26 | Time: 7:00am - 10:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-314@mycustomdomain.com
+UID:shifted-edit-event-313@mycustomdomain.com
 DTSTART:20260926T073000
 DTEND:20260926T093000
 SUMMARY:corvette only prescott cruise @az.vettes
@@ -2523,7 +2515,7 @@ LOCATION:2575 W Sonoran Desert Dr, Phoenix, AZ
 DESCRIPTION:Date: Sep 26 | Time: 7:30am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-315@mycustomdomain.com
+UID:shifted-edit-event-314@mycustomdomain.com
 DTSTART:20260926T080000
 DTEND:20260926T100000
 SUMMARY:Prescott Cars & Coffee
@@ -2531,7 +2523,7 @@ LOCATION:3200 Gateway Blvd, Prescott, AZ
 DESCRIPTION:Date: Sep 26 | Time: 8:00am – 10:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-316@mycustomdomain.com
+UID:shifted-edit-event-315@mycustomdomain.com
 DTSTART:20260926T080000
 DTEND:20260926T100000
 SUMMARY:anthem cars & coffee
@@ -2539,7 +2531,7 @@ LOCATION:4250 w anthem way, phoenix, az
 DESCRIPTION:Date: Sep 26 | Time: 8:00am - 11:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-317@mycustomdomain.com
+UID:shifted-edit-event-316@mycustomdomain.com
 DTSTART:20260926T080000
 DTEND:20260926T100000
 SUMMARY:adam&#x27;s polishes cars & coffee
@@ -2547,7 +2539,7 @@ LOCATION:Adam&#x27;s Polishes Scottsdale
 DESCRIPTION:Date: Sep 26 | Time: 8:00am - 10:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-318@mycustomdomain.com
+UID:shifted-edit-event-317@mycustomdomain.com
 DTSTART:20260926T210000
 DTEND:20260926T230000
 SUMMARY:Prescott Vette Sette Car Show
@@ -2555,12 +2547,20 @@ LOCATION:Courthouse Square, Prescott, AZ
 DESCRIPTION:Date: Sep 26 | Time: 9:00am - 2:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-319@mycustomdomain.com
+UID:shifted-edit-event-318@mycustomdomain.com
 DTSTART:20260926T090000
 DTEND:20260926T110000
 SUMMARY:supercar saturday
 LOCATION:mclaren north scottsdale
 DESCRIPTION:Date: Sep 26 | Time: 9:00am - 11:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:shifted-edit-event-319@mycustomdomain.com
+DTSTART:20260926T090000
+DTEND:20260926T110000
+SUMMARY:cars & cannolis @avantsofficial
+LOCATION:1572 w harvard ave, gilbert, az
+DESCRIPTION:Date: Sep 26 | Time: 9:00am - 11:30am
 END:VEVENT
 BEGIN:VEVENT
 UID:shifted-edit-event-320@mycustomdomain.com
