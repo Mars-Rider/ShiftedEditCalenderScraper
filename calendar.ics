@@ -1494,20 +1494,12 @@ BEGIN:VEVENT
 UID:shifted-edit-event-186@mycustomdomain.com
 DTSTART:20261017T180000
 DTEND:20261017T200000
-SUMMARY:HopeKids Trunk or Treat Fundraiser*
-LOCATION:4725 N Scottsdale Rd, Scottsdale, AZ
-DESCRIPTION:Date: Oct 17 | Time: 6:00pm to 8:30PM
-END:VEVENT
-BEGIN:VEVENT
-UID:shifted-edit-event-187@mycustomdomain.com
-DTSTART:20261017T180000
-DTEND:20261017T200000
 SUMMARY:hopekids trunk or treat fundraiser
 LOCATION:4725 N Scottsdale Rd, Scottsdale, AZ
 DESCRIPTION:Date: Oct 17 | Time: 6:00pm - 8:30pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-188@mycustomdomain.com
+UID:shifted-edit-event-187@mycustomdomain.com
 DTSTART:20261017T180000
 DTEND:20261017T200000
 SUMMARY:Dyno Night | Scottsdale Restorations x Scottsdale Watches
@@ -1515,7 +1507,7 @@ LOCATION:16447 N 91st St Ste 101, Scottsdale, AZ
 DESCRIPTION:Date: Oct 17 | Time: 6:00pm - 9:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-189@mycustomdomain.com
+UID:shifted-edit-event-188@mycustomdomain.com
 DTSTART:20261017T190000
 DTEND:20261017T210000
 SUMMARY:shifting into sunset @chapmancarsandcoffee
@@ -1523,7 +1515,7 @@ LOCATION:mercedes-benz of tucson
 DESCRIPTION:Date: Oct 17 | Time: 7:00pm - 9:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-190@mycustomdomain.com
+UID:shifted-edit-event-189@mycustomdomain.com
 DTSTART:20261017T190000
 DTEND:20261017T210000
 SUMMARY:bike invasion night meet & stunt show @cleannuff
@@ -1531,7 +1523,7 @@ LOCATION:1880 s 7th ave, phoenix, az
 DESCRIPTION:Date: Oct 17 | Time: 7:00pm - 10:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-191@mycustomdomain.com
+UID:shifted-edit-event-190@mycustomdomain.com
 DTSTART:20261017T190000
 DTEND:20261017T210000
 SUMMARY:trunk or treat @simplysubiesofaz
@@ -1539,7 +1531,7 @@ LOCATION:7106 W Frier Dr, Glendale, AZ
 DESCRIPTION:Date: Oct 17 | Time: 7:00pm - 9:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-192@mycustomdomain.com
+UID:shifted-edit-event-191@mycustomdomain.com
 DTSTART:20261018T120000
 DTEND:20261018T140000
 SUMMARY:horizon rally group mt. graham rally*
@@ -1547,7 +1539,7 @@ LOCATION:DM @horizonrallygroup for more
 DESCRIPTION:Date: Oct 18 | Time: 
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-193@mycustomdomain.com
+UID:shifted-edit-event-192@mycustomdomain.com
 DTSTART:20261018T070000
 DTEND:20261018T090000
 SUMMARY:fall kick off cars & coffee @crossroadautoworks
@@ -1555,7 +1547,7 @@ LOCATION:16537 E Laser Dr #1, Fountain Hills, AZ
 DESCRIPTION:Date: Oct 18 | Time: 7:00am - 10:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-194@mycustomdomain.com
+UID:shifted-edit-event-193@mycustomdomain.com
 DTSTART:20261018T070000
 DTEND:20261018T090000
 SUMMARY:mesa cars & toys @mesacarstoys
@@ -1563,7 +1555,7 @@ LOCATION:5943 E Brown Rd, Mesa, AZ
 DESCRIPTION:Date: Oct 18 | Time: 7:00am - 10:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-195@mycustomdomain.com
+UID:shifted-edit-event-194@mycustomdomain.com
 DTSTART:20261018T193000
 DTEND:20261018T213000
 SUMMARY:caffe vita cars & coffee
@@ -1571,7 +1563,7 @@ LOCATION:509 W McDowell Rd, Phoenix, AZ
 DESCRIPTION:Date: Oct 18 | Time: 7:30am - 12:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-196@mycustomdomain.com
+UID:shifted-edit-event-195@mycustomdomain.com
 DTSTART:20261018T200000
 DTEND:20261018T220000
 SUMMARY:cars & caffeine @deluxe.carclub
@@ -1579,7 +1571,7 @@ LOCATION:radford racing school
 DESCRIPTION:Date: Oct 18 | Time: 8:00am - 12:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-197@mycustomdomain.com
+UID:shifted-edit-event-196@mycustomdomain.com
 DTSTART:20261018T080000
 DTEND:20261018T100000
 SUMMARY:luxe collective fall social*
@@ -1587,7 +1579,7 @@ LOCATION:petrol fed, scottsdale, az
 DESCRIPTION:Date: Oct 18 | Time: 8:00am - 10:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-198@mycustomdomain.com
+UID:shifted-edit-event-197@mycustomdomain.com
 DTSTART:20261018T080000
 DTEND:20261018T100000
 SUMMARY:pizza in the pines @desert_speed_society
@@ -1595,7 +1587,7 @@ LOCATION:1555 N Gilbert Rd #107, Gilbert, AZ
 DESCRIPTION:Date: Oct 18 | Time: 8:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-199@mycustomdomain.com
+UID:shifted-edit-event-198@mycustomdomain.com
 DTSTART:20261018T200000
 DTEND:20261018T220000
 SUMMARY:Oldsmobile Club of Arizona Cars & Coffee
@@ -1603,15 +1595,15 @@ LOCATION:Phil&#x27;s Filling Station, Fountain Hills, AZ
 DESCRIPTION:Date: Oct 18 | Time: 8:00am - 12:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-200@mycustomdomain.com
-DTSTART:20261018T200000
-DTEND:20261018T220000
-SUMMARY:cruz&#x27;n @ phil&#x27;s
-LOCATION:phil&#x27;s filling station, fountain hills, az
-DESCRIPTION:Date: Oct 18 | Time: 8:00am - 12:00pm
+UID:shifted-edit-event-199@mycustomdomain.com
+DTSTART:20261018T080000
+DTEND:20261018T100000
+SUMMARY:@avantsofficial kicking tires
+LOCATION:8799 E FRANK LLOYD WRIGHT BLVD, SCOTTSDALE, AZ
+DESCRIPTION:Date: Oct 18 | Time: 8:00am - 10:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-201@mycustomdomain.com
+UID:shifted-edit-event-200@mycustomdomain.com
 DTSTART:20261018T160000
 DTEND:20261018T180000
 SUMMARY:street & exotic showcase @stackproductions.llc
@@ -1619,7 +1611,7 @@ LOCATION:audi arrowhead, Peoria, AZ
 DESCRIPTION:Date: Oct 18 | Time: 4:00pm - 8:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-202@mycustomdomain.com
+UID:shifted-edit-event-201@mycustomdomain.com
 DTSTART:20261018T170000
 DTEND:20261018T190000
 SUMMARY:Sunday night cruise in
@@ -1627,7 +1619,7 @@ LOCATION:300 W Apache Trail, Apache Junction, AZ
 DESCRIPTION:Date: Oct 18 | Time: 5:00pm - 9:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-203@mycustomdomain.com
+UID:shifted-edit-event-202@mycustomdomain.com
 DTSTART:20261018T170000
 DTEND:20261018T190000
 SUMMARY:trunk or treat @c10clubtucson
@@ -1635,7 +1627,7 @@ LOCATION:7077 N Thornydale Rd, Tucson, AZ
 DESCRIPTION:Date: Oct 18 | Time: 5:00pm - 7:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-204@mycustomdomain.com
+UID:shifted-edit-event-203@mycustomdomain.com
 DTSTART:20261023T220000
 DTEND:20261023T000000
 SUMMARY:spooky drift 6 tucson
@@ -1643,7 +1635,7 @@ LOCATION:musselman honda circuit, tucson, az
 DESCRIPTION:Date: Oct 23 | Time: 10:00am - 11:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-205@mycustomdomain.com
+UID:shifted-edit-event-204@mycustomdomain.com
 DTSTART:20261023T183000
 DTEND:20261023T203000
 SUMMARY:friday night drags* @gofastent
@@ -1651,7 +1643,7 @@ LOCATION:firebird motorsports park
 DESCRIPTION:Date: Oct 23 | Time: 6:30pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-206@mycustomdomain.com
+UID:shifted-edit-event-205@mycustomdomain.com
 DTSTART:20261024T070000
 DTEND:20261024T090000
 SUMMARY:Top Fuel Espresso cars & coffee
@@ -1659,7 +1651,7 @@ LOCATION:740 W Guadalupe Rd, Gilbert, AZ
 DESCRIPTION:Date: Oct 24 | Time: 7:00am - 10:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-207@mycustomdomain.com
+UID:shifted-edit-event-206@mycustomdomain.com
 DTSTART:20261024T070000
 DTEND:20261024T090000
 SUMMARY:luxe collective cars & coffee
@@ -1667,7 +1659,7 @@ LOCATION:10625 n tatum blvd, phoenix, az
 DESCRIPTION:Date: Oct 24 | Time: 7:00am - 9:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-208@mycustomdomain.com
+UID:shifted-edit-event-207@mycustomdomain.com
 DTSTART:20261024T070000
 DTEND:20261024T090000
 SUMMARY:Toy Barn Cars & Coffee @toybarngarages
@@ -1675,7 +1667,7 @@ LOCATION:4504 E Lone Mountain Rd, Cave Creek, AZ
 DESCRIPTION:Date: Oct 24 | Time: 7:00am - 10:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-209@mycustomdomain.com
+UID:shifted-edit-event-208@mycustomdomain.com
 DTSTART:20261024T073000
 DTEND:20261024T093000
 SUMMARY:Payson Cruise @GRAZ__86
@@ -1683,7 +1675,7 @@ LOCATION:517 W McKellips Rd, Mesa, AZ
 DESCRIPTION:Date: Oct 24 | Time: 7:30am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-210@mycustomdomain.com
+UID:shifted-edit-event-209@mycustomdomain.com
 DTSTART:20261024T080000
 DTEND:20261024T100000
 SUMMARY:@pair.cupworks cars & coffee
@@ -1691,7 +1683,7 @@ LOCATION:31 S Robson #103, Mesa, AZ
 DESCRIPTION:Date: Oct 24 | Time: 8:00am - 11:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-211@mycustomdomain.com
+UID:shifted-edit-event-210@mycustomdomain.com
 DTSTART:20261024T083000
 DTEND:20261024T103000
 SUMMARY:the "little" cars & coffee @azmoddedmedia
@@ -1699,7 +1691,7 @@ LOCATION:13802 N Scottsdale Rd #161, Scottsdale, AZ
 DESCRIPTION:Date: Oct 24 | Time: 8:30am - 11:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-212@mycustomdomain.com
+UID:shifted-edit-event-211@mycustomdomain.com
 DTSTART:20261024T160000
 DTEND:20261024T180000
 SUMMARY:trunk or treat @alamilla_ridez
@@ -1707,7 +1699,7 @@ LOCATION:2151 AZ-92, Sierra Vista, AZ
 DESCRIPTION:Date: Oct 24 | Time: 4:00pm - 6:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-213@mycustomdomain.com
+UID:shifted-edit-event-212@mycustomdomain.com
 DTSTART:20261024T170000
 DTEND:20261024T190000
 SUMMARY:White Tank Customs & Classics
@@ -1715,7 +1707,7 @@ LOCATION:19680 W Indian School Rd, Buckeye, AZ
 DESCRIPTION:Date: Oct 24 | Time: 5:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-214@mycustomdomain.com
+UID:shifted-edit-event-213@mycustomdomain.com
 DTSTART:20261024T170000
 DTEND:20261024T190000
 SUMMARY:cars for a cause @theacemarkets
@@ -1723,7 +1715,7 @@ LOCATION:500 N McQueen Rd, Gilbert, AZ
 DESCRIPTION:Date: Oct 24 | Time: 5:00pm - 9:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-215@mycustomdomain.com
+UID:shifted-edit-event-214@mycustomdomain.com
 DTSTART:20261024T180000
 DTEND:20261024T200000
 SUMMARY:trunk or treat @avondaletoyota
@@ -1731,7 +1723,7 @@ LOCATION:10005 Papago Fwy, Avondale, AZ
 DESCRIPTION:Date: Oct 24 | Time: 6:00pm - 8:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-216@mycustomdomain.com
+UID:shifted-edit-event-215@mycustomdomain.com
 DTSTART:20261024T190000
 DTEND:20261024T210000
 SUMMARY:spooky slurpee saturday @az.drivn
@@ -1739,7 +1731,7 @@ LOCATION:3725 S Val Vista Dr, Gilbert, AZ
 DESCRIPTION:Date: Oct 24 | Time: 7:00pm - 11:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-217@mycustomdomain.com
+UID:shifted-edit-event-216@mycustomdomain.com
 DTSTART:20261025T070000
 DTEND:20261025T090000
 SUMMARY:cars & croissants
@@ -1747,7 +1739,7 @@ LOCATION:22721 S Ellsworth Rd, Queen Creek, AZ
 DESCRIPTION:Date: Oct 25 | Time: 7:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-218@mycustomdomain.com
+UID:shifted-edit-event-217@mycustomdomain.com
 DTSTART:20261025T070000
 DTEND:20261025T090000
 SUMMARY:mesa cars & toys @mesacarstoys
@@ -1755,7 +1747,7 @@ LOCATION:5943 E Brown Rd, Mesa, AZ
 DESCRIPTION:Date: Oct 25 | Time: 7:00am - 10:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-219@mycustomdomain.com
+UID:shifted-edit-event-218@mycustomdomain.com
 DTSTART:20261025T070000
 DTEND:20261025T090000
 SUMMARY:@mercedesofaz cars & coffee
@@ -1763,7 +1755,7 @@ LOCATION:fourtillfour scottsdale, az
 DESCRIPTION:Date: Oct 25 | Time: 7:00am - 10:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-220@mycustomdomain.com
+UID:shifted-edit-event-219@mycustomdomain.com
 DTSTART:20261025T080000
 DTEND:20261025T100000
 SUMMARY:Custom Cars & Coffee of Central Phoenix
@@ -1771,7 +1763,7 @@ LOCATION:711 E Missouri Ave, Phoenix, AZ
 DESCRIPTION:Date: Oct 25 | Time: 8:00am - 10:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-221@mycustomdomain.com
+UID:shifted-edit-event-220@mycustomdomain.com
 DTSTART:20261025T080000
 DTEND:20261025T100000
 SUMMARY:Yota’s and Coffee @bkopoke
@@ -1779,7 +1771,7 @@ LOCATION:8435 w Peoria Ave, Peoria, AZ
 DESCRIPTION:Date: Oct 25 | Time: 8:00am - 11:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-222@mycustomdomain.com
+UID:shifted-edit-event-221@mycustomdomain.com
 DTSTART:20261025T200000
 DTEND:20261025T220000
 SUMMARY:ziggis cars & coffee @stacksproductions.llc
@@ -1787,7 +1779,7 @@ LOCATION:860 E Williams Field Rd, Gilbert, AZ
 DESCRIPTION:Date: Oct 25 | Time: 8:00am - 12:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-223@mycustomdomain.com
+UID:shifted-edit-event-222@mycustomdomain.com
 DTSTART:20261025T200000
 DTEND:20261025T220000
 SUMMARY:cruz&#x27;n @ phil&#x27;s
@@ -1795,7 +1787,7 @@ LOCATION:phil&#x27;s filling station, fountain hills, az
 DESCRIPTION:Date: Oct 25 | Time: 8:00am - 12:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-224@mycustomdomain.com
+UID:shifted-edit-event-223@mycustomdomain.com
 DTSTART:20261025T083000
 DTEND:20261025T103000
 SUMMARY:kyusha club
@@ -1803,7 +1795,7 @@ LOCATION:coffeedrunk phoenix, az
 DESCRIPTION:Date: Oct 25 | Time: 8:30am - 11:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-225@mycustomdomain.com
+UID:shifted-edit-event-224@mycustomdomain.com
 DTSTART:20261025T160000
 DTEND:20261025T180000
 SUMMARY:revv-or-treat @streetshotsby_alee
@@ -1811,7 +1803,7 @@ LOCATION:910 W Irvington Rd, Tucson, AZ
 DESCRIPTION:Date: Oct 25 | Time: 4:00pm - 9:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-226@mycustomdomain.com
+UID:shifted-edit-event-225@mycustomdomain.com
 DTSTART:20261025T170000
 DTEND:20261025T190000
 SUMMARY:Sunday night cruise in
@@ -1819,7 +1811,7 @@ LOCATION:300 W Apache Trail, Apache Junction, AZ
 DESCRIPTION:Date: Oct 25 | Time: 5:00pm - 9:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-227@mycustomdomain.com
+UID:shifted-edit-event-226@mycustomdomain.com
 DTSTART:20261027T170000
 DTEND:20261027T190000
 SUMMARY:@c0pacars trunk or treat
@@ -1827,7 +1819,7 @@ LOCATION:20430 N John Wayne Pkwy, Maricopa, AZ
 DESCRIPTION:Date: Oct 27 | Time: 5:00pm - 9:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-228@mycustomdomain.com
+UID:shifted-edit-event-227@mycustomdomain.com
 DTSTART:20261028T170000
 DTEND:20261028T190000
 SUMMARY:@c0pacars trunk or treat 2
@@ -1835,7 +1827,7 @@ LOCATION:45012 W Honeycutt Ave, Maricopa, AZ
 DESCRIPTION:Date: Oct 28 | Time: 5:00pm - 9:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-229@mycustomdomain.com
+UID:shifted-edit-event-228@mycustomdomain.com
 DTSTART:20261029T190000
 DTEND:20261029T210000
 SUMMARY:trick & sip @slowtrafficaz
@@ -1843,7 +1835,7 @@ LOCATION:9184 W Northern Ave #105, Glendale, AZ
 DESCRIPTION:Date: Oct 29 | Time: 7:00pm - 10:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-230@mycustomdomain.com
+UID:shifted-edit-event-229@mycustomdomain.com
 DTSTART:20261030T200000
 DTEND:20261030T220000
 SUMMARY:kazoku nights trunk or treat
@@ -1851,7 +1843,7 @@ LOCATION:1818 S 7th St, Phoenix, AZ 85034
 DESCRIPTION:Date: Oct 30 | Time: 8:00pm - 11:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-231@mycustomdomain.com
+UID:shifted-edit-event-230@mycustomdomain.com
 DTSTART:20261031T080000
 DTEND:20261031T100000
 SUMMARY:anthem cars & coffee
@@ -1859,7 +1851,7 @@ LOCATION:4250 w anthem way, phoenix, az
 DESCRIPTION:Date: Oct 31 | Time: 8:00am - 11:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-232@mycustomdomain.com
+UID:shifted-edit-event-231@mycustomdomain.com
 DTSTART:20261031T170000
 DTEND:20261031T190000
 SUMMARY:White Tank Customs & Classics
@@ -1867,7 +1859,7 @@ LOCATION:19680 W Indian School Rd, Buckeye, AZ
 DESCRIPTION:Date: Oct 31 | Time: 5:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-233@mycustomdomain.com
+UID:shifted-edit-event-232@mycustomdomain.com
 DTSTART:20261101T070000
 DTEND:20261101T090000
 SUMMARY:Motorcycles & Coffee
@@ -1875,11 +1867,19 @@ LOCATION:fourtillfour scottsdale
 DESCRIPTION:Date: Nov 1 | Time: 7:00am - 10:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-234@mycustomdomain.com
+UID:shifted-edit-event-233@mycustomdomain.com
 DTSTART:20261101T070000
 DTEND:20261101T090000
 SUMMARY:mesa cars & toys @mesacarstoys
 LOCATION:5943 E Brown Rd, Mesa, AZ
+DESCRIPTION:Date: Nov 1 | Time: 7:00am - 10:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:shifted-edit-event-234@mycustomdomain.com
+DTSTART:20261101T070000
+DTEND:20261101T090000
+SUMMARY:Cruise & brews @beamushroom
+LOCATION:201 S. WASHINGTON ST, CHANDLER, AZ
 DESCRIPTION:Date: Nov 1 | Time: 7:00am - 10:00am
 END:VEVENT
 BEGIN:VEVENT
