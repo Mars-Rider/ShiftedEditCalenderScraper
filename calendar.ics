@@ -244,14 +244,6 @@ DESCRIPTION:Date: May 15 | Time: 8:00am - 10:00am
 END:VEVENT
 BEGIN:VEVENT
 UID:shifted-edit-event-30@mycustomdomain.com
-DTSTART:20261128T073000
-DTEND:20261128T093000
-SUMMARY:luxe collective cars & coffee
-LOCATION:10625 n tatum blvd, phoenix, az
-DESCRIPTION:Date: Nov 28 | Time: 7:30am - 9:30am
-END:VEVENT
-BEGIN:VEVENT
-UID:shifted-edit-event-31@mycustomdomain.com
 DTSTART:20261127T190000
 DTEND:20261127T210000
 SUMMARY:kiwanis meet @az_nemesis
@@ -259,7 +251,7 @@ LOCATION:5233 S Ash Ave,Tempe, AZ
 DESCRIPTION:Date: Nov 27 | Time: 7:00pm - 10:00pm
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-32@mycustomdomain.com
+UID:shifted-edit-event-31@mycustomdomain.com
 DTSTART:20261128T063000
 DTEND:20261128T083000
 SUMMARY:@Brokenskulls2026 X AzSecretSociety Car Bike Meet
@@ -267,7 +259,7 @@ LOCATION:20874 E Heritage Loop Rd, Queen Creek, AZ
 DESCRIPTION:Date: Nov 28 | Time: 6:30AM - 9:00AM
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-33@mycustomdomain.com
+UID:shifted-edit-event-32@mycustomdomain.com
 DTSTART:20261128T070000
 DTEND:20261128T090000
 SUMMARY:vintage offroad
@@ -275,7 +267,7 @@ LOCATION:fourtillfour scottsdale
 DESCRIPTION:Date: Nov 28 | Time: 7:00am - 10:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-34@mycustomdomain.com
+UID:shifted-edit-event-33@mycustomdomain.com
 DTSTART:20261128T070000
 DTEND:20261128T090000
 SUMMARY:cars & coffee @az.drivn
@@ -283,7 +275,7 @@ LOCATION:20710 E Riggs Rd, Queen Creek, AZ
 DESCRIPTION:Date: Nov 28 | Time: 7:00AM - 10:00aM
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-35@mycustomdomain.com
+UID:shifted-edit-event-34@mycustomdomain.com
 DTSTART:20261128T070000
 DTEND:20261128T090000
 SUMMARY:Toy Barn Cars & Coffee @toybarnluxurygarages
@@ -291,7 +283,7 @@ LOCATION:7317 E Helm Dr, Scottsdale, AZ
 DESCRIPTION:Date: Nov 28 | Time: 7:00am - 10:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-36@mycustomdomain.com
+UID:shifted-edit-event-35@mycustomdomain.com
 DTSTART:20261128T070000
 DTEND:20261128T090000
 SUMMARY:espressos & engines
@@ -299,12 +291,20 @@ LOCATION:andreoli italian grocer
 DESCRIPTION:Date: Nov 28 | Time: 7:00am 10:00am
 END:VEVENT
 BEGIN:VEVENT
-UID:shifted-edit-event-37@mycustomdomain.com
+UID:shifted-edit-event-36@mycustomdomain.com
 DTSTART:20261128T070000
 DTEND:20261128T090000
 SUMMARY:Top Fuel Espresso cars & coffee
 LOCATION:730 W Guadalupe Rd, Gilbert, AZ
 DESCRIPTION:Date: Nov 28 | Time: 7:00am - 9:00am
+END:VEVENT
+BEGIN:VEVENT
+UID:shifted-edit-event-37@mycustomdomain.com
+DTSTART:20261128T073000
+DTEND:20261128T093000
+SUMMARY:luxe collective cars & coffee toy drive
+LOCATION:10625 n tatum blvd, phoenix, az
+DESCRIPTION:Date: Nov 28 | Time: 7:30am - 9:30am
 END:VEVENT
 BEGIN:VEVENT
 UID:shifted-edit-event-38@mycustomdomain.com
